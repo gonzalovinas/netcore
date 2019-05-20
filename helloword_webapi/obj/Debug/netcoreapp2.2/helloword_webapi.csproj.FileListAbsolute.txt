@@ -1,0 +1,14 @@
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/bin/Debug/netcoreapp2.2/helloword_webapi.deps.json
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/bin/Debug/netcoreapp2.2/helloword_webapi.runtimeconfig.json
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/bin/Debug/netcoreapp2.2/helloword_webapi.runtimeconfig.dev.json
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/bin/Debug/netcoreapp2.2/helloword_webapi.dll
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/bin/Debug/netcoreapp2.2/helloword_webapi.pdb
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.csprojAssemblyReference.cache
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.csproj.CoreCompileInputs.cache
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.RazorAssemblyInfo.cache
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.RazorAssemblyInfo.cs
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.AssemblyInfoInputs.cache
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.AssemblyInfo.cs
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.RazorTargetAssemblyInfo.cache
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.dll
+/home/gonza/Desktop/src/dotnet-samples/helloword_webapi/obj/Debug/netcoreapp2.2/helloword_webapi.pdb
